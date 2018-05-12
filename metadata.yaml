@@ -1,0 +1,33 @@
+_repo: Elizabethan-and-Jacobean-Pamphlets_44855
+_version: 0.1.0
+alternative_title: Elizabethan and Jacobean Pamphlets
+covers:
+- cover_type: archival
+  image_path: 44855-h/images/cover.jpg
+creator:
+  editor:
+    agent_name: Saintsbury, George
+    alias: Saintsbury, George Edward Bateman
+    birthdate: 1845
+    deathdate: 1933
+    gutenberg_agent_id: '4608'
+    url: http://www.gutenberg.org/2009/agents/4608
+    wikipedia: http://en.wikipedia.org/wiki/George_Saintsbury
+description: ''
+gutenberg_issued: '2014-02-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44855'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English literature -- Early modern, 1500-1700'
+tableOfContents: Reply to Gosson, by T. Lodge -- Pap with a hatchet, by J. Lyly (?)
+  -- A pretty and witty discourse, by N. Breton -- Groat's worth of wit, by R. Greene
+  -- Precursor to Pierce's Supererogation, by G. Harvey -- Prognostication, by T.
+  Nash -- The Gull's hornbook, by T. Dekker.
+title: Elizabethan & Jacobean Pamphlets
+url: http://www.gutenberg.org/ebooks/44855
